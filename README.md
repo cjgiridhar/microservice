@@ -13,3 +13,6 @@ Sample spring boot microservice implementation with Netflix OSS
 - Feign: Used to provide Interservice communication by implementing functions like (de)serialization, fault detection and load distribution. In this example, we make a call to order service from customer service with Feign.
 - Ribbon: Provides client side load balancing and integrates with Eureka for service discovery and Hystrix to provide resilience. Ribbon is available as part of Feign.
 - Hystrix: Resilience between inter service communication is provided by Hystrix.
+
+# Eureka Dashboard
+<img width="1272" alt="Eureka Dashboard" src="https://user-images.githubusercontent.com/807096/113499695-a8a31f00-9535-11eb-9cb3-d7ad64d2c825.png">
