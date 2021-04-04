@@ -1,5 +1,5 @@
 # Microservice
-Sample microservice implementation with Netflix OSS
+Sample spring boot microservice implementation with Netflix OSS
 
 # Services 
 - Customer service: Lists all the customers
